@@ -1,0 +1,17 @@
+{
+  "name": "haedev/git-version",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Trinh Nguyen"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "GitVersion\\": "src/"
+    }
+  }
+}
